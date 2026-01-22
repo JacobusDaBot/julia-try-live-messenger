@@ -1,4 +1,4 @@
-this is a ongiong p2p messenger and file server project with:
+this is a ongoing p2p messenger and file server project with:
 
 public private diffie hellman key exchange on each message(i know its not efficient)
 
