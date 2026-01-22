@@ -1,0 +1,16 @@
+
+user ask for connect and pub key
+server give grant and pub key
+user send big data encrypted
+
+server decrypt
+server close client
+server wait new client
+
+
+
+
+
+
+
+
